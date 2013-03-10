@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hello World."
-description: "An introduction."
+title: "Hello World"
+description: "An introduction"
 category: 
 tags: []
 author: eli
