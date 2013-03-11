@@ -264,4 +264,14 @@
    .navbar ul.nav {
     display: none;
    }
+
+ }
+
+ img {
+    max-width: 600px;
+ }
+
+ ul {
+   list-style: disc;
+   margin-left: 24px;
  }
